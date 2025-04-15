@@ -1,0 +1,28 @@
+There are 4 main Deep learning algorithms for Image Classification
+
+1. AlexNet
+2. GoogleNet
+3. MobiliNet
+4. VGGNet
+
+
+On this practice we'll implement Dataset:
+ImageNet (includes 1000 classes)
+
+
+OBJECT DETECTION
+Famous algorithms
+1. SSD-MobiliNetv2
+2. YOLO v1, v2
+
+Famous Dataset
+ COCO 
+  80 classes
+
+
+We need libraries 
+
+pip install tensorflow
+pip install numpy
+pip install opencv-python
+pip install Pillow
